@@ -1,18 +1,12 @@
-\# Legacy Calculator 2009
+# Legacy Loan Calculator
 
+## Build Instructions
+g++ -std=c++11 src/*.cpp -o calc
 
+## Run Instructions
+./calc
 
-\## Build Instructions
-
-g++ -std=c++11 main.cpp -o calc
-
-
-
-\## Run Instructions
-
-./calc      (Linux/Mac)
-
-calc.exe    (Windows)
-
-
+## Documentation
+Doxygen HTML documentation is in the `docs/html` folder.
+Open `docs/html/index.html` in a browser to view.
 

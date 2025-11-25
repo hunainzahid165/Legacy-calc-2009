@@ -1,0 +1,4 @@
+principal=100000
+interest=12
+tenure=360
+
