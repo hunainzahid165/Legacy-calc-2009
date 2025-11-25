@@ -6,3 +6,6 @@ nbproject/
 .sconsign.dblite
 loanCalculator
 moc*.cc
+"*.o" 
+"*.exe" 
+"calc" 
